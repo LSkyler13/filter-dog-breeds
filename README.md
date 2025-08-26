@@ -12,16 +12,16 @@ A tiny Node.js script that fetches the Dog CEO breed list and prints breeds star
    ```bash
    chmod +x filterBreeds.js
 ## Usage
-# Default: breeds starting with "b"
+### Default: breeds starting with "b"
 node filterBreeds.js
 
-# Specify a letter (A–Z)
+### Specify a letter (A–Z)
 node filterBreeds.js m
 
-# If made executable:
+### If made executable:
 ./filterBreeds.js m
 
-# Example Output
+### Example Output
 1. Basenji
 2. Beagle
 3. Bulldog (sub-breeds: Boston, English, French)
